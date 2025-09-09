@@ -1,6 +1,6 @@
 # External API Integration Strategy
 
-## 1. Choice of External API
+## 1. Choice of External API 
 
 -   **API Chosen: Unsplash API**
     -   **Reasoning**: To fulfill the external API integration requirement and enrich the application's visual experience, the Unsplash API was chosen. This API provides free access to millions of high-quality images. Instead of using static assets, the application dynamically fetches relevant images for each course based on its category. This makes the interface more engaging and demonstrates the ability to interact with a third-party service.

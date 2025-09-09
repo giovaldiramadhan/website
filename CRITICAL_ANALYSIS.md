@@ -1,6 +1,6 @@
 # Critical Analysis of the Elice Learning Platform
 
-This document provides a critical analysis of the Elice Learning Platform project, outlining its strengths, current limitations, and potential future improvements as required by the Full-Stack Engineer Challenge.
+This document provides a critical analysis of the Elice Learning Platform project, outlining its strengths, current limitations, and potential future improvements as required by the Full-Stack Engineer Challenge. 
 
 ## What Works Well
 
