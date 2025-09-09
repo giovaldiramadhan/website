@@ -4,8 +4,6 @@ const UserSchema = new mongoose.Schema({
   name: {
     type: String,
     required: [true, 'Please provide a name'],
-    minlength: 3,
-    maxlength: 50,
   },
   email: {
     type: String,
@@ -19,13 +17,11 @@ const UserSchema = new mongoose.Schema({
   password: {
     type: String,
     required: [true, 'Please provide a password'],
-    minlength: 6,
   },
-  // TAMBAHKAN FIELD BARU DI BAWAH INI
   enrolledCourses: [
     {
       courseId: {
-        type: String, // Menggunakan ID custom dari data kursus kita
+        type: String,
         ref: 'Course',
         required: true,
       },
@@ -36,6 +32,11 @@ const UserSchema = new mongoose.Schema({
       enrolledAt: {
         type: Date,
         default: Date.now,
+      },
+      // TAMBAHAN BARU: Array untuk menyimpan materi yang disimpan
+      savedContent: {
+        type: [String], // Menyimpan daftar judul materi sebagai string
+        default: [],
       },
     },
   ],

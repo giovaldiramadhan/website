@@ -1,7 +1,5 @@
-# Architecture Overview
-
+# Architecture Overview & Technology Choices
 This document outlines the key design decisions and system flow for the Elice Learning Platform, a full-stack MERN application.
-
 ## 1. System Architecture & Flow
 
 The application is built on a decoupled client-server model, which allows for independent development, scaling, and maintenance of the frontend and backend.

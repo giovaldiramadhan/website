@@ -6,6 +6,7 @@ const axios = require('axios'); // Make sure axios is installed: npm install axi
 const connectDB = require('./db/connect');
 const authRouter = require('./routes/auth');
 const userRouter = require('./routes/user');
+const contentRouter = require('./routes/content'); // <-- Impor router baru
 const authMiddleware = require('./middleware/auth');
 const Course = require('./models/Course');
 
@@ -18,6 +19,7 @@ app.use(express.json());
 // Routes
 app.use('/api/auth', authRouter);
 app.use('/api/user', authMiddleware, userRouter);
+app.use('/api/content', authMiddleware, contentRouter); // <-- Tambahkan rute ini
 
 app.get('/', (req, res) => {
   res.send('<h1>Elice Learning Platform API</h1><p>Selamat datang di Backend API.</p>');
