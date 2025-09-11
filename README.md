@@ -31,4 +31,4 @@ This project is submitted using **Option B: Local Setup with Documentation**.
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/giovaldiramadhan/website.git](https://github.com/giovaldiramadhan/website.git)
+git clone https://github.com/giovaldiramadhan/website.git
