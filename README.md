@@ -1,5 +1,5 @@
 # Web
-Online Courses - Learn Anything, On Your Schedule | Udemy
+Online Courses - Learn Anything, On Your Schedule
 
 ### Getting Started
 
