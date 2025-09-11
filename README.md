@@ -21,6 +21,25 @@ Elice Learning Platform is a full-stack web application designed in response to 
 
 This project is submitted using **Option B: Local Setup with Documentation**.
 
+<img width="1470" height="831" alt="Screenshot 2025-09-11 at 19 04 41" src="https://github.com/user-attachments/assets/5a5a73bf-f224-45b1-8d55-6fe8bf424c28" />
+
+<img width="1470" height="831" alt="Screenshot 2025-09-11 at 19 05 11" src="https://github.com/user-attachments/assets/a52dcf7d-4390-4b56-8f61-6104109b4a22" />
+
+<img width="1470" height="832" alt="Screenshot 2025-09-11 at 19 05 37" src="https://github.com/user-attachments/assets/48e2523a-583a-4565-bcb8-a4264feff4f9" />
+
+<img width="1470" height="832" alt="Screenshot 2025-09-11 at 19 05 23" src="https://github.com/user-attachments/assets/779ed569-973a-4824-95ec-1ec682dda0f0" />
+
+<img width="1470" height="833" alt="Screenshot 2025-09-11 at 19 05 48" src="https://github.com/user-attachments/assets/9d7a48b2-4aed-4f8e-844b-bd9340dfe289" />
+
+<img width="1470" height="831" alt="Screenshot 2025-09-11 at 19 06 06" src="https://github.com/user-attachments/assets/6cf8287e-57cf-4f72-a750-048b1764bb73" />
+
+<img width="1470" height="830" alt="Screenshot 2025-09-11 at 19 06 37" src="https://github.com/user-attachments/assets/070940b7-33b4-4a2b-89b4-fc5011801588" />
+
+<img width="1470" height="832" alt="Screenshot 2025-09-11 at 19 06 25" src="https://github.com/user-attachments/assets/4492f299-2cfb-4820-847f-5495c9e589fc" />
+
+
+
+
 ### Prerequisites
 
 - Node.js (v14 or later)
