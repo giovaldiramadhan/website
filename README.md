@@ -37,8 +37,7 @@ This project is submitted using **Option B: Local Setup with Documentation**.
 
 <img width="1470" height="832" alt="Screenshot 2025-09-11 at 19 06 25" src="https://github.com/user-attachments/assets/4492f299-2cfb-4820-847f-5495c9e589fc" />
 
-
-
+<img width="1470" height="319" alt="Screenshot 2025-09-11 at 19 10 44" src="https://github.com/user-attachments/assets/ab896197-0a19-45ea-ac25-0b27a970c88b" />
 
 ### Prerequisites
 
