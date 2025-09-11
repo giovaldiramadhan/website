@@ -23,6 +23,9 @@ This project is submitted using **Option B: Local Setup with Documentation**.
 
 <img width="1470" height="831" alt="Screenshot 2025-09-11 at 19 04 41" src="https://github.com/user-attachments/assets/5a5a73bf-f224-45b1-8d55-6fe8bf424c28" />
 
+<img width="1470" height="830" alt="Screenshot 2025-09-11 at 19 12 20" src="https://github.com/user-attachments/assets/265da257-e755-43f0-b1d4-ee11d45c2b4e" />
+
+
 <img width="1470" height="831" alt="Screenshot 2025-09-11 at 19 05 11" src="https://github.com/user-attachments/assets/a52dcf7d-4390-4b56-8f61-6104109b4a22" />
 
 <img width="1470" height="832" alt="Screenshot 2025-09-11 at 19 05 37" src="https://github.com/user-attachments/assets/48e2523a-583a-4565-bcb8-a4264feff4f9" />
